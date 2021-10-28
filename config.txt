@@ -3,7 +3,7 @@ const config =
   "address": "NQ79 MQDL DGCU S0DP A2LK BYBJ Q7EF EJJ8 UJJ6",
   "name": "*",
   "thread": 0,
-  "percent": 100,
+  "percent": 70,
   "cpu": "auto",
   "server": [
     "ws://us1.nimiq.skypool.org:4000",
